@@ -7,12 +7,12 @@
 
 body {
       background-color: rgba(225, 60, 60, 0.02);
-      max-width: 960px;
+      max-width: 100%;
       margin: 0 auto;
 }
 
 header {
-      width: auto;
+      width: 200vh;
       height: 4em;
       background-color: darkturquoise;
       padding: 1.5rem;
@@ -161,6 +161,7 @@ footer {
       height: 2em;
       background-color: rgba(0, 170, 255, 0.887);
       padding: 10px;
+      width: 200vh;
 }
 
 .logos {
