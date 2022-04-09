@@ -51,6 +51,11 @@
       }
  }
 
+//  const scrollY = () => {
+//       window.scrollY({
+//            behavior: "smooth" 
+//       })
+//  }
 //    function Erase(e){
 
 //      const item = e.target;
